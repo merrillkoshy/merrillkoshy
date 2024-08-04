@@ -1,7 +1,7 @@
 <img height="auto" width="100px" height="100px" src="https://merrillkoshy.github.io/profile.png" alt="Merrill Koshy Thomas">
 <p style="font-style:italic;">
-Hi! I'm an Engineering graduate, self-taught frontend developer, educated with backend development and integrated APIs with primarily NoSQL databases.
-As a full stack, cross-platform JavaScript developer, I have deployed over 20 projects for the past 5+ years.
+Hi! I'm an engineering graduate, a self-taught frontend developer, and educated with backend development and integrated APIs with primarily NoSQL databases.
+As a full stack, cross-platform JavaScript developer, I have deployed 20+ projects over the past 8 years.
 </p>
 
 <strong>Portfolio: https://merrillkoshy.github.io</strong>
