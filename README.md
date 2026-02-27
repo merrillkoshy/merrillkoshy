@@ -1,12 +1,10 @@
-<img height="auto" width="100px" height="100px" src="https://merrillkoshy.github.io/profile.png" alt="Merrill Koshy Thomas">
 <p style="font-style:italic;">
-Hi! I'm an engineering graduate, a self-taught frontend developer, and educated with backend development and integrated APIs with primarily NoSQL databases.
-As a full stack, cross-platform JavaScript developer, I have deployed 20+ projects over the past 8 years.
+Hi! I’m a self-taught frontend-heavy full-stack engineer with over 9 years of professional experience building scalable, high-impact applications — mostly in ReactJS and the JavaScript/TypeScript ecosystem.
 </p>
 
 <strong>Portfolio: https://merrillkoshy.github.io</strong>
 
-The areas I have worked with are mainly Advertising, eCommerce, ERP & CRM systems and eGovernance.
+I've worked across multiple countries (now based in Germany) and industries including FinTech, eCommerce, AdTech, ERP/CRM systems, and e-Governance. My strength lies in transforming traditional business logic into modern digital platforms — often as a solo developer, sometimes as a tech lead, always as a systems thinker.
 
 <strong>Language</strong>: JavaScript/TypeScript
 Full Stack: JAMstack, MERN stack
@@ -16,7 +14,7 @@ Full Stack: JAMstack, MERN stack
 <strong>Data Handling</strong>: Redux, GraphQL, Redis caching<br/>
 
 <strong>Back End</strong>: NodeJS, ExpressJS, NestJS<br/>
-<strong>Testing</strong>: Jest, Enzyme<br/>
+<strong>Testing</strong>: Jest, Enzyme, Playwright<br/>
 
 <strong>Databases</strong>: MongoDB, PostgreSQL<br/>
 <strong>CMS</strong>: Contentful, Strapi<br/>
